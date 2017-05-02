@@ -1,0 +1,13 @@
+{
+  "author": "NullRoz007",
+  "name": "node-destiny",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+	"prepare": "npm install ./lib/ -g",
+	"build": "node build.js"
+  }
+}
