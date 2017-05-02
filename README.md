@@ -1,8 +1,9 @@
+<h1>
 Destiny API Wrapper
-
-
+</h1>
+<h2>
 Building:
-
+</h2>
 
 node-destiny uses my automated api wrapper generator (lib/autowrapper)
 to build. 
@@ -20,7 +21,7 @@ npm build
 ```
 ---
 
-#Endpoints:
+<h2>Endpoints:</h2>
 
 GetPublicAdvisorsV2(options, callback)
 Example:
