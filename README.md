@@ -1,5 +1,9 @@
-##Destiny API Wrapper
-#Building:
+Destiny API Wrapper
+
+
+Building:
+
+
 node-destiny uses my automated api wrapper generator (lib/autowrapper)
 to build. 
 
@@ -14,8 +18,6 @@ npm install
 npm prepare
 npm build
 ```
-
-This will produce output/destiny-api.js and README.md
 ---
 
 #Endpoints:
